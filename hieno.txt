@@ -1,0 +1,94 @@
+vihreä puna sumu
+0 8 11
+13 24 36
+11 27 44
+
+alien w2
+2 6 11
+-21 105 -135
+-23 88 -116
+
+nopea
+0 6 11
+58 91 -95
+70 88 -116
+
+s80ra
+2 6 11
+49 0 -51
+70 88 -116
+
+nopsa
+2 6 11
+56 83 -51
+72 99 4
+
+hidas out välkähtää 6 teksturellä blend 1 symk
+2 6 11
+-19 83 -51
+-13 83 4
+
+hidas pyörylä
+1 10 9
+22 56 -75
+20 43 -80
+
+fraktaalimainen usva unzoom
+0 8 7
+-24 78 -79
+-30 97 -80
+
+korea tuplafraktaali - fiksaa alku
+2 10 9
+20 78 -79
+33 97 -80
+
+kaunis karvainen unzoom (sama synkempänä blendmode 0:lla)
+1 1 1
+-14 139 148
+-9 151 76
+
+siemenneste lentänee (voisi alkaa hiiiitaaana ja nopeutua)
+1 13 5
+44 -70 148
+28 -70 76
+
+munaa!
+0 2 2 
+44 -70 28
+28 -76 0
+
+ufoilu (tsekkaa alku ja loppu)
+1 3 5
+-27 48 32
+24 46 0
+
+pehmeä yksinkertainen - mut markuksesta kaunis
+1 7 7
+28 106 32
+29 111 -60
+
+SO fractal
+1 8 10
+-22 -50 32
+-21 -47 60
+
+oksennus tulee. hyvä. tsekkaa kiekurafraktaalin bugit pois
+0 9 11
+40 -70 32
+37 -78 60
+
+JUMA MISTÄ NÄMÄ VÄRIT OVAT? (tee alku-HUET)
+0 10 11
+40 65 32
+37 82 -60
+
+karvaa ja valkoista
+1 1 10
+21 -22 32
+16 -10 -60
+
+ruoho (blurrilla)
+0 5 6
+13 1 76
+30 26 44

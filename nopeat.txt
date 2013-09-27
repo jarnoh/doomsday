@@ -1,0 +1,57 @@
+sukkaan
+1 3 8
+56 -34 40
+59 -38 44
+
+realtime RA
+0 4 10
+56 -34 40
+59 -38 44
+
+realtime RA2
+0 7 10
+56 -34 40
+59 -38 44
+
+sairaanmagee B/W
+1 1 6
+56 -34 40
+59 -38 44
+
+sairaanmagee B/W - switch!
+0 1 6
+56 -34 40
+59 -38 44
+
+SPIIDrotate
+0 7 5
+94 -370 -3
+69 -322 -120
+
+SPIIDrotate2
+0 8 6
+94 -370 -3
+69 -322 -120
+
+w2unzoom
+1 11 9
+-55 70 -3
+-96 54 -120
+
+munaunzoom
+1 12 10
+-55 70 -43
+-96 54 -120
+
+wowunzoom
+1 0 10
+-55 70 -43
+-96 54 -120
+
+munaunzoom
+0 12 9
+-55 185 -43
+-96 54 -120
+
+rotatet ei toimi - tarkoituksella?
+testaa spiidit * (-1)

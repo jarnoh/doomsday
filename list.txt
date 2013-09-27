@@ -1,0 +1,17 @@
+anim0%02d.dds
+b%02d.dds
+d%02d.dds
+dd%02d.dds
+e%02d.dds
+h%02d.dds
+j%02d.dds
+k%02d.dds
+L%02d.dds
+nig%02d.dds
+pp%02d.dds
+r%02d.dds
+voi%02d.dds
+w1_%02d.dds
+w2_%02d.dds
+x%02d.dds
+y%02d.dds

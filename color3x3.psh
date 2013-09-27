@@ -1,0 +1,29 @@
+/*
+
+single texture pixel shader with on fly color transformation
+
+color 3x3 matrix goes to constants 0,1,2
+components separation 4x3 matrix goes to constants 3,4,5
+
+*/
+
+ps.1.1
+
+def c4, 1.0f, 0.0f, 0.0f, 1.0f
+def c5, 0.0f, 1.0f, 0.0f, 1.0f
+def c6, 0.0f, 0.0f, 1.0f, 1.0f
+
+// texture
+tex t0				
+
+// texel dot color transform
+dp3 r0, t0, c0
+dp3 r1, t0, c1
+
+// multiply + add to separate r,g,b components
+// mad r0, r0, c4, c3
+mul r0, r0, c4
+mad r0, r1, c5, r0
+dp3 r1, t0, c2
+mad r0, r1, c6, r0
+add r0, r0, c3

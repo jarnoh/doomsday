@@ -1,0 +1,27 @@
+01. ƒmyri.SquareArp: Bassline -- alkaa 00:16.5, aloittaa tasaisen jumputuksen 00:32.5
+02. DrRex.Orange -- ei k‰ytˆss‰
+03. Ab.Quincy -- "haamu‰‰ni", ekan kerran 00:19.
+04. Ab.CombPad -- piisin aloittava soundi
+05. Ab.Palladium -- ritin‰soundi, eka 00:09.5
+06. DrRex.Lofi -- pehme‰ komppi, ainoa esiintym‰ 04:46.020 ->
+07. Mael.Repeater -- bassohumina/surina, alkaa 00:16.5
+08. H.ScAhs -- nais‰‰ni, alkaa 02:20.5
+09. Ab.TheBells -- kilin‰efektej‰, eka 00:33.5
+10. Redr.Tech04 -- elektrohtava komppi, alkaa 00:56.5
+11. FM7.DnB -- alasp‰in liukuva basso/suhaus-efekti, eka 00:45.5
+12. FM7.SpacePark -- kirkas padi, alkaa 02:36.5
+13. Red.Tech03 -- elektrokomppi, alkaa 00:48.5.
+14. Red.Groove1 -- akustinen komppi, alkaa 01:20.5
+15. Moog Modular -- ei k‰ytˆss‰
+16. MIDI 14 -- m‰ttˆkomppi, alkaa 01:20.5
+17. MIDI 15 -- toinen iso komppi, alkaa 01:20.5
+18. Moog.SoftPad1 -- s‰rˆinen ulina, esiintyy kerran 04:56.5 alkaen
+19. DRex.Mutant -- Aphex-sekoilu, alkaa 01:20.125
+
+
+10 raitaan 56-> sync fx
+
+10 raitaan 2:40-> zoomerivauhti/additive/tms ylˆs->takaisin sinill‰
+16? (17?) raitaan add blend /\/\/\/\ tai frame advance ->->->->
+
+19 + 1:50 /\/\/\/\ s‰rin‰‰!
